@@ -1,4 +1,4 @@
-# package_template
+# length-hpi-grader
 
 A Template to build a PIP package
 
