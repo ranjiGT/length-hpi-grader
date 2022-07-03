@@ -2,9 +2,13 @@
 
 A Template to build a PIP package
 
-## Authors- [@alod83](https://www.github.com/alod83)
+## Authors
 
-## InstallationInstall my-project with pip
+- [@ranjiGT](https://www.github.com/ranjiGT)
+
+## Installation
+
+Install `length-grader` with pip
 
 ```bash
   pip install length_grader
