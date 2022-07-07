@@ -15,5 +15,6 @@ Install `length-grader` with pip
 ```
 ## Requirements
 
+* Python >= 3.6
 * testbook
 * ipywidgets
