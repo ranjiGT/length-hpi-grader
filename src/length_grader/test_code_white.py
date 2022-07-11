@@ -88,27 +88,6 @@ grade = grader()
 
 print('Your score is: ',grade)
 
-"""
-def submit_score(a):
-    return grade
-"""
-
-"""
-Check score
-out = widgets.Output()
-
-def show_score(grade):
-    with out:
-        display(Javascript(f'window.open("{grade}");'))
-
-ss = widgets.Button(description="Check scores", tooltip='https://www.google.com', button_style = 'success')
-ss.on_click(show_score)
-
-with out:
-    display(ss)
-out
-
-"""
 
 
 """
