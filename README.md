@@ -10,7 +10,7 @@
 Install `length-grader` with pip
 
 ```bash
-  pip install length_grader
+  pip install --index-url https://test.pypi.org/simple/ --no-deps package_template
 ```
 ## Requirements
 
